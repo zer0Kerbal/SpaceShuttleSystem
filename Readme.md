@@ -1,12 +1,12 @@
 <!-- Readme.md v1.0.2.0
-ScrapYard (SYD)
+Space Shuttle System by DECQ(SSS)
 created: 01 Oct 19
 updated: 2020 03 16 -->
 <!-- # KerbGuise Experimental engineering (KGEx)
 #### Brings you: -->
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
-# ScrapYard (SYD)
+# SpaceShuttleSystem (SSS)
 ## The Common Part Inventory
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]   
@@ -15,7 +15,7 @@ updated: 2020 03 16 -->
 ***
 [IMG:hero:0]
 ### Preamble by [@severedsolo][LINK:severedsolo]: 
-> So you may have heard that @magico13 is giving up modding KSP. I've got the honour of taking over support for ScrapYard, because it makes sense as I have my own mod that depends on it (Oh Scrap!). I want to take this opportunity to thank magico13 for all his hard work and contributions to the community over the years, as I know that my own KSP experience would be much poorer without his mods. Anyway, enough from me.
+> So you may have heard that @magico13 is giving up modding KSP. I've got the honour of taking over support for SpaceShuttleSystem, because it makes sense as I have my own mod that depends on it (Oh Scrap!). I want to take this opportunity to thank magico13 for all his hard work and contributions to the community over the years, as I know that my own KSP experience would be much poorer without his mods. Anyway, enough from me.
 ### Installation Directions:
 - Use CKAN
 ### Changelog Summary
@@ -61,18 +61,18 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 
 ###### v2.0.1.0 original: 01 Oct 2019 zed'K | updated: 16 Mar 2020 zed'K
 
-[MOD:license]:      https://github.com/zer0Kerbal/ScrapYard/blob/master/LICENSE
-[MOD:contributing]: https://github.com/zer0Kerbal/ScrapYard/blob/master/.github/CONTRIBUTING.md
-[MOD:issues]:       https://github.com/zer0Kerbal/ScrapYard/issues
-[MOD:wiki]:         https://github.com/zer0Kerbal/ScrapYard/
-[MOD:known]:        https://github.com/zer0Kerbal/ScrapYard/wiki/Known-Issues
+[MOD:license]:      https://github.com/zer0Kerbal/SpaceShuttleSystem/blob/master/LICENSE
+[MOD:contributing]: https://github.com/zer0Kerbal/SpaceShuttleSystem/blob/master/.github/CONTRIBUTING.md
+[MOD:issues]:       https://github.com/zer0Kerbal/SpaceShuttleSystem/issues
+[MOD:wiki]:         https://github.com/zer0Kerbal/SpaceShuttleSystem/
+[MOD:known]:        https://github.com/zer0Kerbal/SpaceShuttleSystem/wiki/Known-Issues
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
-[MOD:github:repo]:  https://github.com/zer0Kerbal/ScrapYard/
-[MOD:changelog]:    https://github.com/zer0Kerbal/ScrapYard/Changelog.cfg
+[MOD:github:repo]:  https://github.com/zer0Kerbal/SpaceShuttleSystem/
+[MOD:changelog]:    https://github.com/zer0Kerbal/SpaceShuttleSystem/Changelog.cfg
 <!--- original mod stuff -->
-[MOD:original:source]: https://github.com/severedsolo/ScrapYard
+[MOD:original:source]: https://github.com/severedsolo/SpaceShuttleSystem
 [MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/178641-*
-[MOD:original:download]: https://github.com/severedsolo/ScrapYard/releases/latest
+[MOD:original:download]: https://github.com/severedsolo/SpaceShuttleSystem/releases/latest
 
 [KSP:website]: http://kerbalspaceprogram.com/
 [LOGO:mit]:     https://i.postimg.cc/bvjfsMP5/MIT-17x17.png
@@ -80,9 +80,9 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [LOGO:ccbysa4]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 [LOGO:wtfpl]:   http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png
 
-[MOD:rel-github]: https://github.com/zer0Kerbal/ScrapYard/releases/latest "GitHub"
+[MOD:rel-github]: https://github.com/zer0Kerbal/SpaceShuttleSystem/releases/latest "GitHub"
 [MOD:rel-spacedock]: http://spacedock.info/mod/1746
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/scrapyard
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleSystem
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
 [image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
@@ -98,16 +98,16 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [image:rel-spacedock-sm]: https://i.postimg.cc/DZ22Hrhj/spacedock.png
 [image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
-[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/ScrapYard?include_prereleases?style=plastic
-[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/mod.json
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/ksp.json
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/license.json
+[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/SpaceShuttleSystem?include_prereleases?style=plastic
+[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/mod.json
+[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/ksp.json
+[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/license.json
 [shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
 [shield:ckan]:       https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:     https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
 [shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
-[shield:avcvalid]:    https://github.com/zer0Kerbal/ScrapYard/workflows/Validate%20AVC%20.version%20files/badge.svg
+[shield:avcvalid]:    https://github.com/zer0Kerbal/SpaceShuttleSystem/workflows/Validate%20AVC%20.version%20files/badge.svg
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  
