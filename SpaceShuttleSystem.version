@@ -1,0 +1,42 @@
+{
+    "NAME"           : "Space Shuttle System by DECQ (SSS)",
+    "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/SpaceShuttleSystem.version",
+    "DOWNLOAD"       : "https://github.com/zer0Kerbal/SpaceShuttleSystem/releases/latest",
+    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/Changelog.cfg",
+    "GITHUB" :
+    {
+        "USERNAME"          : "zer0Kerbal",
+        "REPOSITORY"        : "SpaceShuttleSystem",
+        "ALLOW_PRE_RELEASE" : false
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 1,
+        "BUILD" : 1
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 7,
+        "PATCH" : 3
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 7,
+        "PATCH" : 1
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 7,
+        "PATCH" : 9999
+    },
+    "INSTALL_LOC" :
+    {
+        "NAME" :          "SpaceShuttleSystem",
+        "DIRECTORY" :     "DECQ/SpaceShuttleSystem"
+    }
+}
