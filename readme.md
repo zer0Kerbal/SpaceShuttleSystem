@@ -16,7 +16,7 @@ updated: 2020 03 16 -->
 
 ***
 
-[IMG:hero:0]
+![][IMG:hero:0]
 
 ### License
 
