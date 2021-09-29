@@ -7,55 +7,32 @@ updated: 2020 03 16 -->
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
 # SpaceShuttleSystem (SSS)
-## The Common Part Inventory
-![Mod Version][shield:mod:latest] 
-![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]   
-![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
-![Validate AVC .version files][shield:avcvalid]  
+
+## WIP
+
+![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License GPLv2][shield:license]  
+
+![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github]   
+
 ***
+
 [IMG:hero:0]
-### Preamble by [@severedsolo][LINK:severedsolo]: 
-> So you may have heard that @magico13 is giving up modding KSP. I've got the honour of taking over support for SpaceShuttleSystem, because it makes sense as I have my own mod that depends on it (Oh Scrap!). I want to take this opportunity to thank magico13 for all his hard work and contributions to the community over the years, as I know that my own KSP experience would be much poorer without his mods. Anyway, enough from me.
-### Installation Directions:
-- Use CKAN
-### Changelog Summary
-*See [ChangeLog][MOD:changelog] for full details of mod changes*
-***
-### Dependencies
-- [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-- [x] [Module Manager][thread:mm]  
-### Recomends  
-- [x] [OhScrap!][thread:ohscrap]  
-- [x] [Kerbal Change Log][thread:kcl]  
-### Suggests
-- [x] [StageRecovery][thread:sr]  
-- [x] [Kerbal Construction Time][thread:kct]  
-- [x] [LessRealThanReal][thread:lessrealthanreal] by [@Pehvbot][LINK:]  
-### Supports
-- [x] [KRASH][thread:krash]  
-- [x] [TweakScale][thread:tweakscale]  
-- [x] [RemoteTech][thread:remotetech]  
-- [x] [FAR][thread:far]  
-- [x] [ContractConfigurator][thread:contractconfigurator]  
-### Conflicts
-- none known
-***  
-*red box below is a link to forum post on how to get support*  
-[![How to get support][image:get-support]][thread:getsupport]
 
 ### License
+
 #### aka Legal Mumbo Jumbo
-Source: [GitHub][MOD:github:repo]  
-License: ![License MIT][shield:license] ![][LOGO:mit]    
+
+> Source: [GitHub][MOD:github:repo]  
+> License: ![License GPLv2][shield:license]  
 > *** All bundled mods are distributed under their own licenses***<br>
 > *** All art assets (textures, models, animations) are distributed under their own licenses*** 
+
 ### Original
-[Thread][MOD:original:thread]  
-[Download][MOD:original:download]  
-Source: [GitHub][MOD:original:source]  
-License: ![License MIT][shield:license] ![][LOGO:mit]  
-<!-- graphical links to downloads -->
-[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge]  
+
+> [Thread][MOD:original:thread]  
+> [Download][MOD:original:download]  
+> Source: [GitHub][MOD:original:source]  
+> License: ![License GPLv2][shield:license]  
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
@@ -66,102 +43,40 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [MOD:issues]:       https://github.com/zer0Kerbal/SpaceShuttleSystem/issues
 [MOD:wiki]:         https://github.com/zer0Kerbal/SpaceShuttleSystem/
 [MOD:known]:        https://github.com/zer0Kerbal/SpaceShuttleSystem/wiki/Known-Issues
-[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
+[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/132975-*
 [MOD:github:repo]:  https://github.com/zer0Kerbal/SpaceShuttleSystem/
 [MOD:changelog]:    https://github.com/zer0Kerbal/SpaceShuttleSystem/Changelog.cfg
 <!--- original mod stuff -->
-[MOD:original:source]: https://github.com/severedsolo/SpaceShuttleSystem
-[MOD:original:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/178641-*
-[MOD:original:download]: https://github.com/severedsolo/SpaceShuttleSystem/releases/latest
+[MOD:original:source]: http://spacedock.info/mod/1178
+[MOD:original:thread]: http://forum.kerbalspaceprogram.com/index.php?/topic/132975-*
+[MOD:original:download]: http://spacedock.info/mod/1178
 
 [KSP:website]: http://kerbalspaceprogram.com/
-[LOGO:mit]:     https://i.postimg.cc/bvjfsMP5/MIT-17x17.png
-[LOGO:gplv3]:   https://i.postimg.cc/90kCDs7K/gplv3-48x17.png
-[LOGO:ccbysa4]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
-[LOGO:wtfpl]:   http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png
+[LOGO:gplv3]:   https://i.postimg.cc/90kCDs7K/gplv2-48x17.png
 
 [MOD:rel-github]: https://github.com/zer0Kerbal/SpaceShuttleSystem/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/1746
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleSystem
+[MOD:rel-spacedock]: http://spacedock.info/mod/1178
+[MOD:rel-curseforge]: 
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
-[image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
-[image:rel-spacedock]: https://i.imgur.com/m0a7tn2.png
-[image:rel-curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
-[image:get-support]:    https://i.postimg.cc/vHP6zmrw/image.png
-
-[image:rel-ckan]:    https://i.postimg.cc/x8XSVg4R/sj507JC.png
-[image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png
-[image:source]:      https://i.postimg.cc/tJ8GqW0H/source.png
-
-[image:rel-github-sm]:      https://i.postimg.cc/1XXy5yfD/github.png
-[image:rel-spacedock-sm]: https://i.postimg.cc/DZ22Hrhj/spacedock.png
-[image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/SpaceShuttleSystem?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/mod.json
 [shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/ksp.json
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/license.json
+[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/license.json&logo=gnu
+
 [shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
-[shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
-[shield:ckan]:       https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
-[shield:github]:     https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
-[shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
 [shield:avcvalid]:    https://github.com/zer0Kerbal/SpaceShuttleSystem/workflows/Validate%20AVC%20.version%20files/badge.svg
 
-<!-- zer0Kerbal mods -->
-[thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  
-[thread:FTF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Facility"  
-[thread:FTL]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188841-* "Field Training Lab"  
-[thread:MHH]:  https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"  
-[thread:TCP]:  https://forum.kerbalspaceprogram.com/index.php?/topic/187495-* "Transparent Command Pods"  
-[thread:NUK]:  https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*  "Nuke Tiny Parts"
-[thread:OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "Oh Scrap!"  
-[thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "ScrapYard"  
+[shield:spacedock]:  https://img.shields.io/badge/SpaceDock-1178-blue.svg?style=plastic
+[shield:ckan]:       https://img.shields.io/badge/CKAN-SpaceShuttleSystem-blue.svg?style=plastic
+[shield:github]:     https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
+[shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic&logo=curseforge
 
-[thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions"
-[thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-* "Shielded PicoPort"  
-[thread:DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks"  
-[thread:DMF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Fuselage"  
-[thread:DAR]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's AeroRadial"  
-[thread:DCB]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's CargoBays"  
-[thread:SDS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS)"  
-[thread:SC!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"  
-[thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
-[thread:NSSC:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"  
-[thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"  
-[thread:VG0]:  http:// "Vanguard"  
-[thread:PRB]:  http:// "ProbiTronics"  
-[thread:CTN]:  http:// "CTN"  
-[thread:BSS]:  http:// "B9 Stock Switches"  
-[thread:HB!]:  http:// "HotBeverages"  
-
-[thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"  
-[thread:sr]:  https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"  
-[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Change Log"  
-[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
-[thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
-
-[thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"  
-[thread:mc]: https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* "Magicore"  
-
-[thread:tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-* "ToolbarController"  
-[thread:ctb]: https://forum.kerbalspaceprogram.com/index.php?/topic/170747-* "ClickThroughBlocker"  
-[thread:tbr]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Blizzy's" 
-
-[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*
-
-[LINK:magico13]:       https://forum.kerbalspaceprogram.com/index.php?/profile/73338-magico13/
-[LINK:severedsolo]:    https://forum.kerbalspaceprogram.com/index.php?/profile/80345-severedsolo/
-[LINK:linuxgurugamer]: https://forum.kerbalspaceprogram.com/index.php?/profile/129964-linuxgurugamer/
-[LINK:siriussame]:     https://forum.kerbalspaceprogram.com/index.php?/profile/116426-siriussam/
-[LINK:enneract]:       https://forum.kerbalspaceprogram.com/index.php?/profile/56759-enneract/
-[LINK:]:               https://forum.kerbalspaceprogram.com/index.php?/profile/182810-pehvbot/
 [LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
 
-[IMG:hero:0]: https://i.imgur.com/DVDdgU1.png  
-[IMG:hero:1]: https://i.imgur.com/y0vd6WS.png  
-[IMG:her0:2]: https//  
+[IMG:hero:0]: https://spacedock.info/content/Dragon01_5341/Space_Shuttle_System/Space_Shuttle_System-1485395398.2378469.png  
+ 
 
 <!--
 this file: GPLv2
