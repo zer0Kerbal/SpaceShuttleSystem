@@ -1,4 +1,4 @@
-﻿# .gitignore v2.0.0.1
+﻿# .gitignore v2.0.0.2
 
 # Prerequisites
 *.d
@@ -50,7 +50,6 @@
 
 
 # zer0Kerbal common files
-LegalMumboJumbo/
 Archive/
 Old/
 flaticons/
