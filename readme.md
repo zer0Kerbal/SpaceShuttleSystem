@@ -56,7 +56,7 @@ updated: 2020 03 16 -->
 
 [MOD:rel-github]: https://github.com/zer0Kerbal/SpaceShuttleSystem/releases/latest "GitHub"
 [MOD:rel-spacedock]: http://spacedock.info/mod/1178
-[MOD:rel-curseforge]: 
+  
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
   
