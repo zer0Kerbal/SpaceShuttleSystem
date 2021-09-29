@@ -10,6 +10,8 @@ updated: 2020 03 16 -->
 
 ## WIP
 
+by DECQ
+
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License GPLv2][shield:license]  
 
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github]   
@@ -56,10 +58,10 @@ updated: 2020 03 16 -->
 
 [MOD:rel-github]: https://github.com/zer0Kerbal/SpaceShuttleSystem/releases/latest "GitHub"
 [MOD:rel-spacedock]: http://spacedock.info/mod/1178
-  
+
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
-  
+
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/SpaceShuttleSystem?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/mod.json
 [shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/ksp.json
@@ -75,8 +77,8 @@ updated: 2020 03 16 -->
 
 [LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
 
-[IMG:hero:0]: https://spacedock.info/content/Dragon01_5341/Space_Shuttle_System/Space_Shuttle_System-1485395398.2378469.png  
- 
+[IMG:hero:0]: https://spacedock.info/content/Dragon01_5341/Space_Shuttle_System/Space_Shuttle_System-1485395398.2378469.png
+
 
 <!--
 this file: GPLv2
