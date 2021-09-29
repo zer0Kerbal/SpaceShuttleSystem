@@ -1,0 +1,25 @@
+# This is a standard workflow to copy labels from the linked issue for the opened PR.
+# https://github.com/marketplace/actions/copy-issue-labels
+
+Github issues can link other issues and this linkin is done automatically whenever PR mentions one of the keywords for automated workflows
+
+- name: copy-issue-labels
+  uses: michalvankodev/copy-issue-labels@v1
+on: 
+  pull_request:
+    types: [opened]
+jobs:
+  copy-labels:
+    runs-on: ubuntu-latest
+    name: Copy labels from linked issues
+    steps:
+      - name: copy-labels
+        uses: michalvankodev/copy-issue-labels@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: copy-labels
+        uses: michalvankodev/copy-issue-labels@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.inputs.issue }}
