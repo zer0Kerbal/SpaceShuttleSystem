@@ -17,6 +17,9 @@ https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-113001.jpg
 https://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/
 https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_02_2016/Olympic1_small.png.54b32d8980131a2dca83877d912f1eef.thumb.png.1347f50a660a03ee598f654b57f64483.png
 
+[radar]: https://forum.kerbalspaceprogram.com/index.php?/profile/187957-*/ "Radar"
+https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_04/Pepe2.thumb.jpg.7292cdc0faa1eb7bebfc2fe0aa85eaff.jpg
+
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
@@ -29,8 +32,10 @@ https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_02_2016/Olympic1
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/113001-*/"><img border="0" alt="DECQ" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-113001.jpg" width="50" height="50" > DECQ</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Space Shuttle System (SSS)">Space Shuttle System (SSS)</a>! with </li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/79730-*/"><img border="0" alt="Olympic1" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_02_2016/Olympic1_small.png.54b32d8980131a2dca83877d912f1eef.thumb.png.1347f50a660a03ee598f654b57f64483.png" width="50" height="50" > Olympic1</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Space Shuttle System (SSS)">Space Shuttle System (SSS)</a>!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/113001-*/"><img border="0" alt="DECQ" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-113001.jpg" width="50" height="50" > DECQ</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/" alt="Space Shuttle System (SSS)">Space Shuttle System (SSS)</a>! with </li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/79730-*/"><img border="0" alt="Olympic1" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_02_2016/Olympic1_small.png.54b32d8980131a2dca83877d912f1eef.thumb.png.1347f50a660a03ee598f654b57f64483.png" width="50" height="50" > Olympic1</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/" alt="Space Shuttle System (SSS)">Space Shuttle System (SSS)</a>!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/187957-*/"><img border="0" alt="Radar" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_04/Pepe2.thumb.jpg.7292cdc0faa1eb7bebfc2fe0aa85eaff.jpg" width="50" height="50" > Radar</a> continuing <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/" alt="Space Shuttle System (SSS)">Space Shuttle System (SSS)</a>!</li>
+  <li><i>Devs of Space Shuttle Ultra project for Orbiter.</i></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
@@ -54,6 +59,10 @@ https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_02_2016/Olympic1
   <li>Everyone else who made modding tutorials.</li>
 </ul>
 
+Special thanks to Shadowmage for making this all possible. 
+
+
+
 ### Translations
 
 <ul>
@@ -64,6 +73,12 @@ https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_02_2016/Olympic1
 ### Art Asset(s)
 
 * Flags
+* FX
+  * by MP_Nazari (most of them)
+  * Hoojiwana (smallSRB)
+* SFX
+  * MP_Nazari
+  * KW (OMS sound).
 
 ### Testing and Support
 
