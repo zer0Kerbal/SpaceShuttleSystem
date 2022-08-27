@@ -89,6 +89,8 @@ or [![CKAN][CKAN:img]][ckan]
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
+ASET_Props, JSI, KSPWheel, SSTU (SSTU included with the Shuttle)
+
 ### Supports
 
 * Either [^3]
