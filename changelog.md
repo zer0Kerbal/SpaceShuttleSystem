@@ -27,7 +27,6 @@
 * 27 Aug 2022
 * for KSP 1.12.3
 
-
 ---
 
 ## Version  1.0.1.1-release `<Archival>` edition
