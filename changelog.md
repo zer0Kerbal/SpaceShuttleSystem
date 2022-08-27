@@ -1,46 +1,57 @@
-﻿// Changelog.cfg v1.0.0.0
-// modname
-// created: 2020 02 25
-// updated: 2020 02 25
-KERBALCHANGELOG
-{
-	showChangelog = True
-	modName = Space Shuttle System by DECQ (SSS)
-	license = GPLv2
-	author = zer0Kerbal
-	VERSION
-	{
-		verison = 1.0.1.1
-		versionName = pre-adoption party
-		CHANGE
-		{
-			change = Add features suggested by zer0Kerbal
-			subchange = Add new change nodes
-			subchange = Add license field
-			subchange = Add author node
-			subchange = Add version naming field
-		}
-		CHANGE
-		{
-			change = Internal code rewrite to improve maintainability
-		}
-	}
-	VERSION
-	{
-		version = 1.0.1
-		versionName = for Kerbal Space Program 1.2.2
-		change = Released on 2017-03-02
-		change = More IVA buttons
-		change = Updated plugins
-		change = Small fixes here and there
-	}
-	VERSION
-	{
-		version = 1.0
-		versionName = for Kerbal Space Program 1.2.2
-		change = Released on 2017-01-26
-	}
-}
+﻿# Changelog  
+  
+| modName    | Space Shuttle System (SSS)                                        |
+| ---------- | ----------------------------------------------------------------- |
+| license    | GPL-2.0                                                           |
+| author     | DECQ, Olympic1 and zer0Kerbal                                     |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceShuttleSystem)     |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleSystem)   |
+| spacedock  | (https://spacedock.info/mod/1178)                                 |
+| ckan       | SpaceShuttleSystem                                                |
 
-// GPLv2
-// zer0Kerbal
+## Version 2.0.99.0-adoption `<Thank you DECQ and Olympic1>` edition
+
+* 27 Aug 2022
+* Released for KSP 1.12.3
+
+### Status 2.0.99.0
+
+* Issues
+  * closes #3 - Adopt and Release Space Shuttle Systems (SSS)
+
+---
+
+## Version 2.0.2.0-release `<Thank you Radar>` edition
+
+* 27 Aug 2022
+* for KSP 1.12.3
+
+
+---
+
+## Version  1.0.1.1-release `<Archival>` edition
+
+* no changelog
+
+---
+
+## Version 1.0.1.0-release `<Archival>` edition
+
+* 02 Mar 2017
+* Released for Kerbal Space Program 1.2.2
+
+* More IVA buttons
+* Updated plugins
+* Small fixes here and there
+
+---
+
+### Version 1.0.0.0-release `<Archival>` edition
+
+* 26 Jan 2017
+* Released for Kerbal Space Program 1.2.2
+
+* No changelog provided
+
+---
