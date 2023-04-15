@@ -197,7 +197,7 @@ parts, config
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
-[ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
+[ckan:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
 [CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/ckan.json "CKAN"
 
 <!--- release links -->
@@ -235,9 +235,9 @@ parts, config
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors/ "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal/ "Github Sponsors"
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
@@ -268,7 +268,7 @@ parts, config
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [decq]: https://forum.kerbalspaceprogram.com/index.php?/profile/113001-*/ "DECQ"
 [olympic1]: https://forum.kerbalspaceprogram.com/index.php?/profile/79730-*/ "Olympic1"
