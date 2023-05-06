@@ -42,7 +42,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * Review
   * by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
-[![KSP Mods - Space Shuttle System](https://img.youtube.com/vi/qNuwK7Whcfc/0.jpg)](https://www.youtube.com/watch?v=qNuwK7Whcfc)
+[![KSP Mods - Space Shuttle System](https://img.youtube.com/vi/qNuwK7Whcfc/0.jpg)](https://youtu.be/qNuwK7Whcfc)
 
 ### Help Wanted
 
