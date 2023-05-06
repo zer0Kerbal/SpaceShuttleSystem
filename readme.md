@@ -3,39 +3,45 @@ Space Shuttle System (SSS)
 created: 26 Jan 2017
 updated: 23 Apr 2023
 
-TEMPLATE: readme.md v1.7.2.1
+TEMPLATE: readme.md v1.7.3.0
 created: 17 Jul 2017
-updated: 15 Apr 2023
+updated: 04 May 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 [![Space Shuttle System (SSS)][SHD:mod]][CURSFG:url]
-[![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url]
-[![Pages][SHD:pgs]][pages]
+[![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
 # [Space Shuttle System (SSS)][SSS]
 
 Space Shuttle System is a high quality, high fidelity Space Shuttle mod for Kerbal Space Program
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`DECQ`][decq] with [`Olympic1`][olympic1] then by [Radar][radar]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`DECQ`][decq] with [`Olympic1`][olympic1] with contributions by [Radar][radar]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/img/HeroLogo_1920x1920.png" alt="Space Shuttle System (SSS) Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/img/HeroLogo" alt="Space Shuttle System (SSS) Hero" width="50%" height="50%">
+
+### Preamble by [`DECQ`][decq]
+
+>Hello all !
+>This addon adds details to build Space Shuttle in KSP.
+>First of all it is worth noting that the entire system is taken from the add-on for Orbiter2010 (Where is the original space shuttle) With the modernization of the name of SSU 3.0, with the approval of the person Urwumpe, and released under the license to GPL version 2. Since the original work, the use of texture created by Wolf for Orbiter2010 SSU 3.0
+>
+>*Might need to use a VPN to access*  
+>SSU: http://www.orbithangar.com/searchid.php?ID=6821  
+>SFPR: http://www.orbithangar.com/searchid.php?ID=6848
 
 ### See More
 
->* [Assembly Guide][assmb]
 >* [ChangeLog][chlog] for more details of changes
->* [Discussions][discu] for discussions and news
+>* [Discussions][discu] or [forums][forum] for discussions and news
 >* [GitHub Pages][pages]
->* [How it Works][works]
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
->* [Shortcut Keys][skeys]
->* [Wiki](https://wiki.com)
+>* [wiki: Space Shuttle](https://en.wikipedia.org/wiki/Space_Shuttle)
 
 ### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
 
