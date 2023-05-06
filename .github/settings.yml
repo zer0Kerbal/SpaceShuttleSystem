@@ -1,13 +1,12 @@
-# settings.yml 1.0.9.6
+# settings.yml 1.0.9.8
 # this file: CC BY-ND 4.0
 # zer0Kerbal
 # created 01 Jan 2022
-# updated 04 Aug 2022
+# updated 01 May 2023
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
 repository:
-  # The name of the repository. Changing this will rename the repository
   name: SpaceShuttleSystem
 
   # A short description of the repository that will show up on GitHub
@@ -17,7 +16,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: mod,decq,olympic1,space-shuttle-system,spaceshuttlesystem,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk
+  topics: mod,space-shuttle-system,spaceshuttlesystem,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,decq,olympic1,zedk,contributions-welcome,hacktoberfest,mod
 
 # Labels: define labels for Issues and Pull Requests
 labels:
@@ -33,9 +32,10 @@ labels:
     color: FFFFF0
     description: "duplicated issue - it happens"
 
-  - name: FAQ
+  - name: FAKQ
+    oldname: FAQ
     color: 78A1A5
-    description: "Frequently Asked Question"
+    description: "Frequently Asked Kerbal Question"
 
   - name: "semantic: adoption"
     # include the old name to rename an existing label
@@ -229,44 +229,36 @@ labels:
     color: e6e6e6
     description: No action will be taken at this time
 
+  - name: "hacktoberfest"
+    color: ff9900
+    description: flag for entry into hacktoberfest
+
+  - name: "hacktoberfest-accepted"
+    color: ff9900
+    description: flag for stating PR is accepted as appropriate for hacktoberfest
+
+  - name: "good-first-issue"
+    color: AEF923
+    description: flag for inclusion into good-first-issues listing
+
+  - name: "contributions-welcome"
+    color: AEF923
+    description: flag for inclusion into contributions-welcome listing
+
+  - name: "beginner-friendly"
+    color: AEF923
+    description: flag for inclusion into beginner-friendly listing
+
+  - name: "invalid"
+    color: FFFF00
+    description: flagged as invalid
+
+  - name: "spam"
+    color: EB212E
+    description: spam flag
+
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 2.1.0.0-release
-    description: progress toward 2.1.0.0-release
-    state: open
-
-  - title: 2.0.99.1-prerelease
-    description: progress toward 2.0.99.1-prerelease
-    state: open
-
-  - title: 2.0.99.0-adoption
-    description: progress toward 2.0.99.0-adoption
-    state: open
-
-  - title: 2.0.2.0-release
-    description: progress toward archival 2.0.2.0-release
-    state: open
-
-  - title: 1.0.1.1-release
-    description: progress toward archival 1.0.1.1-release
-    state: open
-
-  - title: 1.0.1.0-release
-    description: progress toward archival 1.0.1.0-release
-    state: open
-
-  - title: 1.0.0.0-release
-    description: progress toward archival 1.0.0.0-release
-    state: open
-
   - title: Localization - Master
     description: progress toward total localization
-    state: open
-
-  - title: Localization - Parts
-    description: progress toward Parts localization (only for parts, patches, agencies - etc)
-    state: open
-
-  - title: Localization - English <en-us.cfg>
-    description: progress toward English <en-us.cfg> localization
     state: open
