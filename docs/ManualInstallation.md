@@ -4,15 +4,18 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.0.0
 Space Shuttle System (SSS)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 27 Aug 2022
+updated: 05 May 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# Space Shuttle System (SSS)
+based upon work by Lisias -->
+
+## [Space Shuttle System (SSS)][mod]
 
 [Home](./index.md)
 
@@ -67,16 +70,15 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Parts]
           ...
+          ManualInstallation.htm
         * #.#.#.#.htm
         * Attributions.htm
         * changelog.md
         * GPL-2.0.txt
-          ManualInstallation.htm
         * readme.htm
         * SpaceShuttleSystem.version
         ...
       ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -84,11 +86,9 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [SimpleConstruction! (SCON!)][SCON]
-* *either*
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
+* none
 
-[SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstruction! (SCON!)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleSystem "Space Shuttle System (SSS)"
