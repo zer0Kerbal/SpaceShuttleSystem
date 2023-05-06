@@ -21,7 +21,7 @@ Space Shuttle System is a high quality, high fidelity Space Shuttle mod for Kerb
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/img/HeroLogo" alt="Space Shuttle System (SSS) Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/img/HeroLogo.png" alt="Space Shuttle System (SSS) Hero" width="50%" height="50%">
 
 ### Preamble by [`DECQ`][decq]
 
