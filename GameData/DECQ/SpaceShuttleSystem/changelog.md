@@ -54,7 +54,7 @@
 
 ---
 
-### Version 1.0.0.0-release `<Archival>` edition
+## Version 1.0.0.0-release `<Archival>` edition
 
 * Released
   * 26 Jan 2017
