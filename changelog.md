@@ -15,6 +15,7 @@
 * Released
   * 17 Sep 2018
   * Kerbal Space Program 1.4.3
+  * by Radar
 
 * no changelog
 
