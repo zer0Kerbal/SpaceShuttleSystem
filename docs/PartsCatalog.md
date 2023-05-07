@@ -16,7 +16,7 @@ updated: 01 May 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-## [MOD-NAME (ABBV)][mod]
+## [Space Shuttle System (SSS)][mod]
 
 [Home](./index.md)
 
