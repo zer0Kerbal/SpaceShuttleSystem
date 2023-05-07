@@ -21,6 +21,7 @@
 * Issues
   * updates #10 - Archival Releases
   * closes #37 - 2.0.2.0-release
+  * updates #39 - [BUG] archival releases
 
 ---
 
@@ -31,6 +32,7 @@
 * Issues
   * updates #10 - Archival Releases
   * closes #36 - 1.0.1.1-release
+  * updates #39 - [BUG] archival releases
 
 ---
 
@@ -39,6 +41,7 @@
 * Released
   * 02 Mar 2017
   * Kerbal Space Program 1.2.2
+  * by DECQ, Dragon01, and Olympic1
 
 * More IVA buttons
 * Updated plugins
@@ -47,6 +50,7 @@
 * Issues
   * updates #10 - Archival Releases
   * closes #35 - 1.0.1.0-release
+  * updates #39 - [BUG] archival releases
 
 ---
 
@@ -55,11 +59,13 @@
 * Released
   * 26 Jan 2017
   * Kerbal Space Program 1.2.2
+  * by DECQ, Dragon01, and Olympic1
 
 * No changelog provided
 
 * Issues
-  * closes #10 - Archival Releases
+  * updates #10 - Archival Releases
   * closes #34 - 1.0.0.0-release
+  * updates #39 - [BUG] archival releases
 
 ---
