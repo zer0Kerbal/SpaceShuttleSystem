@@ -13,30 +13,29 @@
     {
         "MAJOR" : 2,
         "MINOR" : 0,
-        "PATCH" : 2,
+        "PATCH" : 99,
         "BUILD" : 0
     },
     "KSP_VERSION" :
     {
         "MAJOR" : 1,
-        "MINOR" : 4,
+        "MINOR" : 12,
         "PATCH" : 5
     },
     "KSP_VERSION_MIN" :
     {
         "MAJOR" : 1,
-        "MINOR" : 0,
-        "PATCH" : 0
-    },
-    "KSP_VERSION_MAX" :
-    {
-        "MAJOR" : 1,
-        "MINOR" : 4,
-        "PATCH" : 9999
+        "MINOR" : 3,
+        "PATCH" : 1
     },
     "INSTALL_LOC" :
     {
         "NAME" :          "SpaceShuttleSystem",
         "DIRECTORY" :     "DECQ/SpaceShuttleSystem"
-    }
+    },
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Ships",
+		"DIRECTORY" : "Ships"
+	}
 }
