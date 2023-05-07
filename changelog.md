@@ -25,7 +25,7 @@
 
 ---
 
-## Version  1.0.1.1-release `<Archival>` edition
+## Version 1.0.1.1-release `<Archival>` edition
 
 * no changelog
 
