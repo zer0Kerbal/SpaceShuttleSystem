@@ -1,108 +1,156 @@
-<!-- readme.md v1.6.9.6
+<!-- readme.md v2.0.99.0
 Space Shuttle System (SSS)
+created: 26 Jan 2017
+updated: 06 May 2023
+
+TEMPLATE: readme.md v1.7.3.1
 created: 17 Jul 2017
-updated: 27 Aug 2022 -->
+updated: 06 May 2023
 
-<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![Space Shuttle System][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][ckan]   
-[![Pages][MOD:pages:shd]][MOD:pages]
+[![Space Shuttle System (SSS)][SHD:mod]][CURSFG:url]
+[![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-
-
-# Space Shuttle System (SSS)
+# [Space Shuttle System (SSS)][forum]
 
 Space Shuttle System is a high quality, high fidelity Space Shuttle mod for Kerbal Space Program
 
-
-
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`DECQ`][decq] with [`Olympic1`][olympic1] then by [Radar][radar]
-
-
-
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`DECQ`][decq] with [`Olympic1`][olympic1] with contributions by [Radar][radar]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/img/HeroLogo_1920x1920.png" alt="SpaceShuttleSystem Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/img/HeroLogo.png" alt="Space Shuttle System (SSS) Hero" width="50%" height="50%">
 
----
+### Preamble by [`DECQ`][decq]
+
+>Hello all !
+>This addon adds details to build Space Shuttle in KSP.
+>First of all it is worth noting that the entire system is taken from the add-on for Orbiter2010 (Where is the original space shuttle) With the modernization of the name of SSU 3.0, with the approval of the person Urwumpe, and released under the license to GPL version 2. Since the original work, the use of texture created by Wolf for Orbiter2010 SSU 3.0
+>
+>*Might need to use a VPN to access*  
+>SSU: http://www.orbithangar.com/searchid.php?ID=6821  
+>SFPR: http://www.orbithangar.com/searchid.php?ID=6848
 
 ### See More
 
-* See our [Parts Catalog][MOD:parts] for part pictures
-* For more images, see our [Marketing Slicks][MOD:markt]
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
-* GitHub Pages : See [Pages][MOD:pages]
+>* [ChangeLog][chlog] for more details of changes
+>* [Discussions][discu] or [forums][forum] for discussions and news
+>* [GitHub Pages][pages]
+>* [Known Issues][issue] for more details of feature requests and known issues
+>* [Marketing Slicks][markt]
+>* [Parts Catalog][parts] for part pictures
+>* [wiki: Space Shuttle](https://en.wikipedia.org/wiki/Space_Shuttle)
 
----
+### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
 
-### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+* Review
+  * by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
-[![KSP Mods - Space Shuttle System](https://img.youtube.com/vi/qNuwK7Whcfc/0.jpg)](https://www.youtube.com/watch?v=qNuwK7Whcfc)
+[![KSP Mods - Space Shuttle System](https://img.youtube.com/vi/qNuwK7Whcfc/0.jpg)](https://youtu.be/qNuwK7Whcfc)
 
 ### Help Wanted
 
 > * Compatibility patches
 > * Contracts for these glorious parts
-> * Variant Textures
-> * Converting from KSPWheel to Stock
-> * Model updates to Unity 2019
-> * Marketing Images and Videos such as hero shots, animated gifs, short highlight
-> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
-
----
+> * New/updated sample crafts and subassemblies
+> * Variant Textures and model updates (add/improve lights, iva, hatches and so forth)
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlights
+> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
->
-> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
----
+### Installation Directions
 
-### Installation Directions [^1]
+Most recent releases only available via CurseForge/OverWolf Website/App
 
-***Use***
-  CurseForge/OverWolf App (currently does not install dependencies)  
-
-  <a href="https://download.curseforge.com/">
-    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
-</a>
-
-I take no part, nor am I interested in maintaining the [CKAN][ckan] mod metadata for my mods.
-
-[CKAN][ckan] is a great mod for those that can't use zip tools.
-
-If you are having issues please let the [CKAN][ckan] people know and refer to the [CKAN][ckan] thread.
-
-My support of [CKAN][ckan] extends as far as me checking the checkbox in Spacedock when I upload.
-
-Beware, [CKAN][ckan] *can* really mess up though it tries very, very, very hard not to.
-
-or [![CKAN][CKAN:img]][ckan]
+<a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="100px"></a>
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
-ASET_Props, JSI, KSPWheel, SSTU (SSTU included with the Shuttle)
+### Suggests
+
+* [Adjustable Mod Panel (KAMP)][KAMP]
+* [Biomatic (BIO)][BIO]
+* [Docking Port Descriptions (DPD)][DPD]
+* [Drop Tanks (DROP)][DROP]
+* [Drop Tanks III (DTIII)][DTIII]
+* [Exception Detector (EXCD)][EXCD]
+* [Field Training Facility (FTF)][FTF]
+* [Field Training Lab (FTL)][FTL]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Kaboom! (BOOM)][BOOM]
+* [Mkerb Science Instruments][MSI]
+* [MoarKerbals (MOAR)][MOAR]
+* [Not So SimpleConstructon! (NSSC)][NSSC]
+* [OhScrap! (OHS)][OHS]
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [OScience Laboratories (OSL)][OSL]
+* [Papa Kerballini's Pizza (PIZZA)][PIZZA]
+* [Precise Maneuver (PM)][PM]
+* [Pteron (MSRV)][MSRV]
+* [ScrapYard (SYD)][SYD]
+* [SimpleConstruction! (SCON)][SCON]
+* [SimpleLogistics! (SLOG)][SLOG]
+* [SimpleNotes! (NOTE)][NOTES]
+* [Solar Science (SOL)][SOL]
+* [Stack Inline Lights (SIL)][SIL]
+
+* by [Axial Aerospace][AAL]
+  * [Dreamer (DREAM)][DREAM]
+  * [LanderTek (LTK)][LTEK]
+  * [Simple Cargo Solutions (CARGO)][CARGO]
+  * [WhimChaser (WHIM)][WHIM]
+
+* by [Klockheed Martian Limited (KML)][KML]
+  * [Asteroid Cities (AC)][AC]
+  * [Space Shuttle Engines (SSE)][SSE]
+  * [Space Shuttle Tanks (SST)][SST]
+  * [Special Parts Division (SPD)][SPD]
+
+* by [BobCat Industries (BOB)][BOB]
+  * [Soviet Engines][SOVIETENGINES]
+  * Soviet Pack
+    * [Buran][BURAN]
+    * [Kliper][KLIPER]
+    * [Lunokchod1][LUNOKCHOD1]
+    * [Мир (MIR)][MIR]
+    * [N1L3][N1L3]
+    * [Progress][PROGRESS]
+    * [Протон (Proton)][PROTON]
+    * [Soyuz][SOYUZ]
+    * [SoyuzU][SOYUZU]
+  * [JoolV][JOOLV]
+  * [Nautilus][NAUTILUS]
+  * [HOME][HOME]
 
 ### Supports
 
-* Either [^3]
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
-
-* [KSPWheel][kspw]
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [ModularManagement (MM)][MM] or [Module Manager][m-m]
+* [JSI Advanced Transparent Pods (atp)][atp]
+* [Connected Living Space (CLS)][cls]
+* [Ferram Aerospace Research (FAR)][far]
+* [Kerbal Attachment System (KAS)][kas]
+* [Kerbal Inventory System (KIS)][kis]
+* [Kerbal Joint Reinforcement (KJR)][kjr]
+* [KURS style docking camera][kurs]
+* [MOARdV's Avionics System (mas)][mas]
+* [KSP Recall (REC)][rec]
+* [Raster Prop Monitor (RPM)][rpm]
 * [TweakScale (TWK)][twk]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [NEAR-FAR][far]
+* [Universal Storage (US)][us]
+* [RemoteTech (RT)][rt]
+* [ASET Props Pack][app]
+* [ASET Avionics Pack][aap]
+* [KSP Wheel (kspw)][kspw]
+* [Shadow Space Technologies Unlimited - Labs Division (SSTU)][sstu]
 
 ### Tags
 
@@ -117,88 +165,79 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [DECQ][decq] and [Olympic1][olympic1] for creating this glorious parts addon!
-* [Radar][radar] for picking up where [DECQ][decq] and [Olympic1][olympic1] left off!
-* see [Attribution.md][MOD:attr] for more comprehensive list
+* [DECQ][decq], [Dragon01][dragon01] and [Olympic1][olympic1] for creating this glorious parts addon!
+* [Radar][radar] for updating and further contributions
+* see [Attributions][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (2) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (2) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
->
-> ##### Disclaimer(s)
->
-> ***All bundled mods are distributed under their own licenses***  
-> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
-
-##### see [Notices.md][MOD:notic] for more *legal mumbo jumbo*
 
 #### Original (1) - Author: [Radar][radar]
 
-> Forum: [Thread][MOD:1:thread] - Download: [Dropbox][MOD:1:dnload] - Source: [Dropbox][MOD:1:source]  
-> License: [![License][LIC:1:shd]][LIC:1:url] ![License][LIC:1:log]
+> Forum: [Thread][1:thread] - Download: [Dropbox][1:dnload]
+> License: [![License][1:shd]][1:url] ![License][1:log]
 
-#### Original (0) - Author(s): [DECQ][decq] and [Olympic1][olympic1]
+#### Original (0) - Author(s): [DECQ][decq], [Dragon01][dragon01] and [Olympic1][olympic1]
 
-> Forum: [Thread][MOD:0:thread] - Download: [SpaceDock][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
-> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
+> Forum: [Thread][0:thread] - Download: [SpaceDock][0:dnload] - Source: [SpaceDock][0:source]  
+> License: [![License][0:shd]][0:url] ![License][0:log]
 
----
+#### Based Upon Work By [`Urwumpe`](https://github.com/Urwumpe) (*I believe this is the correct person*)
 
-### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
+> ... worth noting that the entire system is taken from the add-on for Orbiter2010 (Where is the original space shuttle) With the modernization of the name of SSU 3.0, with the approval of the person [`Urwumpe`](https://github.com/Urwumpe), and released under the license to GPL version 2. Since the original work, the use of texture created by Wolf for Orbiter2010 SSU 3.0
 
-> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
-> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+#### Disclaimer(s)
+>
+>* ***All bundled mods are distributed under their own licenses***  
+>* ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses. [![License][sp:shd]][sp:url]***
+>
+>* see [Notices][notic] for more *legal Mumbo Jumbo*
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
-*and it is true.*
-<!-- mod links -->
-[MOD:attr]: https://zer0kerbal.github.io/SpaceShuttleSystem/Attributions "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/changelog.md  "Changelog"
-[MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
-[MOD:discu]: https://github.com/zer0Kerbal/SpaceShuttleSystem/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/ "SpaceShuttleSystem Forum Thread"
-[MOD:issue]: https://github.com/zer0Kerbal/SpaceShuttleSystem/issues "Issues"
-[MOD:licns]: https://github.com/zer0Kerbal/SpaceShuttleSystem/blob/master/LICENSE "Github License"
-[MOD:markt]: https://zer0kerbal.github.io/SpaceShuttleSystem/Marketing "Marketing Slicks"
-[MOD:notic]: https://zer0kerbal.github.io/SpaceShuttleSystem/Notices "Notices"
-[MOD:parts]: https://zer0kerbal.github.io/SpaceShuttleSystem/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/SpaceShuttleSystem "GitHub Pages"
+Comment, click, like, share, up-vote, subscribe
+
+> ***Completely voluntary, absolutely amazing, and really does help out a lot!***  
+> *and it is true.*
+
+[![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url]
+
+<!-- links -->
+[attrb]: https://zer0kerbal.github.io/SpaceShuttleSystem/Attributions "Attribution"
+[chlog]: https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/changelog.md  "Changelog"
+[discu]: https://github.com/zer0Kerbal/SpaceShuttleSystem/discussions "Discussions"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/ "Space Shuttle System Forum Thread"
+[issue]: https://github.com/zer0Kerbal/SpaceShuttleSystem/issues "Issues"
+[markt]: https://zer0kerbal.github.io/SpaceShuttleSystem/Marketing "Marketing Slicks"
+[notic]: https://zer0kerbal.github.io/SpaceShuttleSystem/Notices "Notices"
+[pages]: https://zer0kerbal.github.io/SpaceShuttleSystem "GitHub Pages"
+[parts]: https://zer0kerbal.github.io/SpaceShuttleSystem/PartsCatalog "Parts Catalog"
 
 <!--- mod -->
-[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/mod.json
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/mod.json
+[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
-[MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+<!--- provenance -->
+[0:dnload]: http://spacedock.info/mod/1178 "SpaceDock"
+[0:source]: http://spacedock.info/mod/1178 "SpaceDock"
+[0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/132975-*/ "KSP Forum"
+[0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
+[0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
+[0:shd]: https://img.shields.io/badge/License-GPL--2.0-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPL-2.0"
 
-<!--- mod provenance -->
-[MOD:1:dnload]: https://www.dropbox.com/s/s7hl6p9dc3bfbul/SpaceShuttle.zip "Dropbox"
-[MOD:1:source]: https://www.dropbox.com/s/s7hl6p9dc3bfbul/SpaceShuttle.zip "Dropbox"
-[MOD:1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/178381-*/ "KSP Forum"
-
-[MOD:0:dnload]: http://spacedock.info/mod/1178 "SpaceDock"
-[MOD:0:source]: http://spacedock.info/mod/1178 "SpaceDock"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/132975-*/ "KSP Forum"
-
-<!--- license provenance -->
-[LIC:1:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:1:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:1:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
-
-[LIC:0:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
-[LIC:0:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-GPL--2.0-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPL-2.0"
+[1:dnload]: https://www.dropbox.com/s/s7hl6p9dc3bfbul/SpaceShuttle.zip "Dropbox"
+[1:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/178381-*/ "KSP Forum"
+[1:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
+[1:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
+[1:shd]: https://img.shields.io/badge/License-GPL--2.0-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPL-2.0"
 
 [LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
 [LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/license.json
-
-<!--- CKAN -->
-[CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
-[ckan:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
-[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/ckan.json "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleSystem "Curseforge"
@@ -207,83 +246,111 @@ parts, config
 [GITHUB:url]: https://github.com/zer0Kerbal/SpaceShuttleSystem/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/1178 "SpaceDock"
-[SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
-
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
-[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
+[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleSystem/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
-[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
+[BIO]: https://www.curseforge.com/kerbal/ksp-mods/Biomatic "Biomatic (BIO)"
+[BOOM]: https://www.curseforge.com/kerbal/ksp-mods/Kaboom "Kaboom! (BOOM)"
+[DPD]: https://www.curseforge.com/kerbal/ksp-mods/DockingPortDescriptions "Docking Port Descriptions"
+[DROP]: https://www.curseforge.com/kerbal/ksp-mods/DropTanks "Drop Tanks (DROP)"
+[DTIII]: https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII "Drop Tanks III (DTIII)"
+[EXCD]: https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector "Exception Detector (EXCD)"
+[FTF]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility "Field Training Facility (FTF)"
+[FTL]: https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab "Field Training Lab (FTL)"
+[GPO]: https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump "GPO SpeedPump (GPO)"
+[KAMP]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel "Adjustable Mod Panel (KAMP)"
+[MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
+[MSI]: https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments "Mkerb Science Instruments (MSI)"
+[MSRV]: https://www.curseforge.com/kerbal/Pteron "Pteron (MSRV)"
+[NOTES]: https://www.curseforge.com/kerbal/ksp-mods/Notes "SimpleNotes! (NOTES)"
+[NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon!"
+[ODFC]: https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells "On Demand Fuel Cells (ODFC)"
+[OHS]: https://www.curseforge.com/kerbal/ksp-mods/OhScrap "OhScrap (OHS)"
+[OSL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/ "OScience Laboratories (OSL)"
+[PIZZA]: https://www.curseforge.com/kerbal/ksp-mods/Pizza "Papa Kerballini's Pizza (PIZZA)"
+[PM]: https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver "Precise Maneuver (PM)"
+[SCON]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
+[SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights (SIL)"
+[SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
+[SOL]: https://www.curseforge.com/kerbal/ksp-mods/SolarScience "Solar Science (SOL)"
+[SYD]: https://www.curseforge.com/kerbal/ksp-mods/ScrapYard "ScrapYard (SYD)"
 
+[AAL]: https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd "Axial Aerospace Limited (AA/L)"
+[CARGO]: https://www.curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions "Simple Cargo Solutions (CARGO)"
+[DREAM]: https://www.curseforge.com/kerbal/ksp-mods/Dreamer "Dreamer (DREAM)"
+[LTEK]: https://www.curseforge.com/kerbal/ksp-mods/LanderTek "LanderTek (LTK)"
+[WHIM]: https://www.curseforge.com/kerbal/ksp-mods/WhimChaser "WhimChaser (WHIM)"
+
+[KML]: https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd "Klockheed Martian Limited (KML)"
+[AC]: https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities "Asteroid Cities (AC)"
+[SPD]: https://www.curseforge.com/kerbal/ksp-mods/SpecialPartsDivision "Special Parts Division (SPD)"
+[SSE]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines "Space Shuttle Engines (SSE)"
+[SST]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleTanks "Space Shuttle Tanks (SST)"
+
+[BOB]: https://www.curseforge.com/kerbal/ksp-mods/BobCatInd "BobCat Industries (BOB)"
+[BURAN]: https://github.com/zer0Kerbal/Buran "Buran"
+[KLIPER]: https://github.com/zer0Kerbal/Kliper "Kliper"
+[LUNOKCHOD1]: https://github.com/zer0Kerbal/Lunokchod1 "Lunokchod1"
+[MIR]: https://www.curseforge.com/kerbal/ksp-mods/MIR "MIR"
+[N1L3]: https://github.com/zer0Kerbal/N1L3 "N1L3"
+[PROGRESS]: https://github.com/zer0Kerbal/Progress "Progress"
+[PROTON]: https://github.com/zer0Kerbal/Proton "Proton"
+[SOVIETENGINES]: https://github.com/zer0Kerbal/SovietEnginePack "Soviet Engines"
+[SOYUZ]: https://github.com/zer0Kerbal/Soyuz "Soyuz"
+[SOYUZU]: https://github.com/zer0Kerbal/SoyuzU "SoyuzU"
+[JOOLV]: https://github.com/zer0Kerbal/JoolV "JoolV"
+[NAUTILUS]: https://github.com/zer0Kerbal/Nautilus "Nautilus"
+[HOME]: https://github.com/zer0Kerbal/HOME "HOME"
+
+[aap]: https://forum.kerbalspaceprogram.com/index.php?/topic/116479-*/ "ASET Avionics Pack"
+[app]: https://forum.kerbalspaceprogram.com/index.php?/topic/116430-*/ "ASET Props Pack"
 [atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
+[cls]: https://forum.kerbalspaceprogram.com/index.php?showtopic=192130-*/ "Connected Living Space"
+[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "Ferram Aerospace Research"
+[kas]: https://www.curseforge.com/kerbal/ksp-mods/kerbal-attachment-system-kas "Kerbal Attachment System"
+[kis]: https://www.curseforge.com/kerbal/ksp-mods/kerbal-inventory-system-kis "Kerbal Inventory System"
 [kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
+[kspw]: https://forum.kerbalspaceprogram.com/index.php?/topic/152782-*/ "KSP Wheel (kspw)"
 [kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
 [mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
+[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
+[m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[rec]: https://www.curseforge.com/kerbal/ksp-mods/ksp-recall "KSP Recall (REC)"
 [rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
-[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[rt]: https://remotetechnologiesgroup.github.io/RemoteTech/ "RemoteTech (RT)"
+[sstu]: https://forum.kerbalspaceprogram.com/index.php?/topic/117090-*/ "SSTU - Labs Division (SSTU)"
+[us]: https://forum.kerbalspaceprogram.com/index.php?/topic/68043-*/ "Universal Storage"
+[twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
+
+[decq]: https://forum.kerbalspaceprogram.com/index.php?/profile/113001-*/ "DECQ"
+[dragon01]: https://forum.kerbalspaceprogram.com/index.php?/profile/17033-*/ "Gragon01"
+[olympic1]: https://forum.kerbalspaceprogram.com/index.php?/profile/79730-*/ "Olympic1"
+[radar]: https://forum.kerbalspaceprogram.com/index.php?/profile/187957-*/ "Radar"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
-[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors/ "Github Sponsors"
-[GSPONS:url]: https://github.com/sponsors/zer0Kerbal/ "Github Sponsors"
-[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
-[BMCC:url]: https://buymeacoffee.com/zer0Kerbal/ "Buy Me A Snack"
 
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"
-[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
-
-[decq]: https://forum.kerbalspaceprogram.com/index.php?/profile/113001-*/ "DECQ"
-[olympic1]: https://forum.kerbalspaceprogram.com/index.php?/profile/79730-*/ "Olympic1"
-[radar]: https://forum.kerbalspaceprogram.com/index.php?/profile/187957-*/ "Radar"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
----
+[steam]: https://steamcommunity.com/id/zeroKerbal
+[projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/SpaceShuttleSystem/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/SpaceShuttleSystem/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]</br>
-
-<!-- footnotes -->
-[^1]: this isn't a mod. ;P  
-[^2]: ***may*** work on other versions (YMMV)  
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br>

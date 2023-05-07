@@ -1,7 +1,8 @@
 # 
 
 ## Categories
-
+- [LegalMumboJumbo](./LegalMumboJumbo/index.md)
+- [ReleaseNotes](./ReleaseNotes/index.md)
 
 ## Documents
 - [404](404.md)
@@ -13,3 +14,4 @@
 - [Notices](Notices.md)
 - [PartsCatalog](PartsCatalog.md)
 - [Why](Why.md)
+- [changelog](changelog.md)
