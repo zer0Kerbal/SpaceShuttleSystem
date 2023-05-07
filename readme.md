@@ -56,7 +56,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Contracts for these glorious parts
 > * New/updated sample crafts and subassemblies
 > * Variant Textures and model updates (add/improve lights, iva, hatches and so forth)
-> * ~~Converting from FireSpitter to Stock and/or KSPWheel~~
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
@@ -152,8 +151,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [ASET Avionics Pack][aap]
 * [KSP Wheel (kspw)][kspw]
 * [Shadow Space Technologies Unlimited - Labs Division (SSTU)][sstu]
-
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
 
 ### Tags
 
