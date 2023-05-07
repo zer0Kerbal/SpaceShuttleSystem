@@ -15,8 +15,12 @@
 * Released
   * 17 Sep 2018
   * Kerbal Space Program 1.4.3
+  * by Radar
+  * includes parts from
+    * Real Scale Boosters
+    * SSTU
 
-* no changelog
+* adds tags and other changes
 
 * Issues
   * updates #10 - Archival Releases
