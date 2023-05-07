@@ -10,22 +10,18 @@
 | spacedock  | (https://spacedock.info/mod/1178)                                 |
 | ckan       | SpaceShuttleSystem                                                |
 
-## Version 2.0.99.0-adoption `<Thank you DECQ and Olympic1>` edition
-
-* 27 Aug 2022
-* Released for KSP 1.12.3
-
-### Status 2.0.99.0
-
-* Issues
-  * closes #3 - Adopt and Release Space Shuttle Systems (SSS)
-
----
-
 ## Version 2.0.2.0-release `<Thank you Radar>` edition
 
-* 27 Aug 2022
-* for KSP 1.12.3
+* Released
+  * 17 Sep 2018
+  * Kerbal Space Program 1.4.3
+
+* no changelog
+
+* Issues
+  * updates #10 - Archival Releases
+  * closes #37 - 2.0.2.0-release
+  * updates #39 - [BUG] archival releases
 
 ---
 
@@ -33,24 +29,43 @@
 
 * no changelog
 
+* Issues
+  * updates #10 - Archival Releases
+  * closes #36 - 1.0.1.1-release
+  * updates #39 - [BUG] archival releases
+
 ---
 
 ## Version 1.0.1.0-release `<Archival>` edition
 
-* 02 Mar 2017
-* Released for Kerbal Space Program 1.2.2
+* Released
+  * 02 Mar 2017
+  * Kerbal Space Program 1.2.2
+  * by DECQ, Dragon01, and Olympic1
 
 * More IVA buttons
 * Updated plugins
 * Small fixes here and there
 
+* Issues
+  * updates #10 - Archival Releases
+  * closes #35 - 1.0.1.0-release
+  * updates #39 - [BUG] archival releases
+
 ---
 
-### Version 1.0.0.0-release `<Archival>` edition
+## Version 1.0.0.0-release `<Archival>` edition
 
-* 26 Jan 2017
-* Released for Kerbal Space Program 1.2.2
+* Released
+  * 26 Jan 2017
+  * Kerbal Space Program 1.2.2
+  * by DECQ, Dragon01, and Olympic1
 
 * No changelog provided
+
+* Issues
+  * updates #10 - Archival Releases
+  * closes #34 - 1.0.0.0-release
+  * updates #39 - [BUG] archival releases
 
 ---
